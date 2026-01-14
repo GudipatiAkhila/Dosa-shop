@@ -13,3 +13,7 @@
 * oil
 * red karam
 * white karam
+* added egg 
+* pesarettu 
+* ghee 
+* added upma
