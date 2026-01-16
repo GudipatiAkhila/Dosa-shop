@@ -19,3 +19,4 @@
 * added upma
 ## paneer dosa
 * dosa batter
+* panner
