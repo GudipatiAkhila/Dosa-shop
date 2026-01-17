@@ -21,6 +21,3 @@
 ## mushroom dosa
 * dosa batter 
 * mushroom masala
-* butter
-* dry fruits
-* Tomato keera
